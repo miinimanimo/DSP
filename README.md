@@ -3,7 +3,7 @@
 본 프로젝트는 중고 거래 플랫폼(중고나라/중고마켓 등)에서 수집한 **iPhone 15 시리즈 판매 완료/예약중 상품 데이터**를 기반으로,
 시간이 지남에 따라 중고 시세가 어떻게 감가(depreciation)되는지, 그리고 **모델·용량·등급·배터리 정보**가 가격에 어떤 영향을 주는지 정량적으로 분석하는 데 목적이 있습니다.
 
-### Project Pipeline (Compact)
+### Project Pipeline
 - **1. Crawling & Raw Data Collection**
   - Selenium 기반 크롤러로 iPhone 15 관련 상품 페이지를 대량 수집
   - 제목·설명·가격·상태·날짜·모델/용량 등 상세 정보 스크래핑
